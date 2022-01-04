@@ -1,0 +1,16 @@
+D:\Estudo\Digital Inovation One\Take a Blip\workspace\TvShows\bin\Debug\net5.0\TvShows.exe
+D:\Estudo\Digital Inovation One\Take a Blip\workspace\TvShows\bin\Debug\net5.0\TvShows.deps.json
+D:\Estudo\Digital Inovation One\Take a Blip\workspace\TvShows\bin\Debug\net5.0\TvShows.runtimeconfig.json
+D:\Estudo\Digital Inovation One\Take a Blip\workspace\TvShows\bin\Debug\net5.0\TvShows.runtimeconfig.dev.json
+D:\Estudo\Digital Inovation One\Take a Blip\workspace\TvShows\bin\Debug\net5.0\TvShows.dll
+D:\Estudo\Digital Inovation One\Take a Blip\workspace\TvShows\bin\Debug\net5.0\ref\TvShows.dll
+D:\Estudo\Digital Inovation One\Take a Blip\workspace\TvShows\bin\Debug\net5.0\TvShows.pdb
+D:\Estudo\Digital Inovation One\Take a Blip\workspace\TvShows\obj\Debug\net5.0\TvShows.csproj.AssemblyReference.cache
+D:\Estudo\Digital Inovation One\Take a Blip\workspace\TvShows\obj\Debug\net5.0\TvShows.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\Digital Inovation One\Take a Blip\workspace\TvShows\obj\Debug\net5.0\TvShows.AssemblyInfoInputs.cache
+D:\Estudo\Digital Inovation One\Take a Blip\workspace\TvShows\obj\Debug\net5.0\TvShows.AssemblyInfo.cs
+D:\Estudo\Digital Inovation One\Take a Blip\workspace\TvShows\obj\Debug\net5.0\TvShows.csproj.CoreCompileInputs.cache
+D:\Estudo\Digital Inovation One\Take a Blip\workspace\TvShows\obj\Debug\net5.0\TvShows.dll
+D:\Estudo\Digital Inovation One\Take a Blip\workspace\TvShows\obj\Debug\net5.0\ref\TvShows.dll
+D:\Estudo\Digital Inovation One\Take a Blip\workspace\TvShows\obj\Debug\net5.0\TvShows.pdb
+D:\Estudo\Digital Inovation One\Take a Blip\workspace\TvShows\obj\Debug\net5.0\TvShows.genruntimeconfig.cache
